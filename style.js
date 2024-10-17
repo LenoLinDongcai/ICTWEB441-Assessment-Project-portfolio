@@ -1,4 +1,4 @@
-//
+/* Leno, LinDongcai */  
 //  
 // This function, named 'checkout', calculates the total cost of purchased items  
 // based on their quantities and individual prices, then displays the total cost in an alert box.  
